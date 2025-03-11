@@ -1,13 +1,13 @@
 # 🎮 Tic-Tac-Toe Game  
 
-![Tic-Tac-Toe Banner](https://via.placeholder.com/1000x300.png?text=Tic-Tac-Toe+Game)  
+![Tic-Tac-Toe Banner](https://upload.wikimedia.org/wikipedia/commons/2/2b/TicTacToe.svg)  
 
 🚀 This is a **Tic-Tac-Toe game** built to strengthen logic building and learn core web development concepts in a fun and interactive way!  
 
 ---
 
 ## 🖥️ Preview  
-![Tic-Tac-Toe Game](https://via.placeholder.com/800x400.png?text=Game+Preview)  
+![Tic-Tac-Toe Game](https://upload.wikimedia.org/wikipedia/commons/3/32/Tic_tac_toe.svg)  
 
 ---
 
@@ -23,9 +23,10 @@
 
 ```bash
 # Clone this repository
-git clone https://github.com/YOUR_USERNAME/Tic-Tac-Toe.git
+git clone https://github.com/pnkmaurya9307/TicTacToe.git
 
 # Navigate to the project folder
-cd Tic-Tac-Toe
+cd TicTacToe
 
 # Open the index.html file in a browser
+
