@@ -1,13 +1,13 @@
-# 🎮 Tic-Tac-Toe Game – Inspired by Shradha Khapra  
+# 🎮 Tic-Tac-Toe Game  
 
-![Tic-Tac-Toe Banner](https://source.unsplash.com/1000x300/?gaming,code)  
+![Tic-Tac-Toe Banner](https://via.placeholder.com/1000x300.png?text=Tic-Tac-Toe+Game)  
 
-🚀 This is a **Tic-Tac-Toe game** built while following **Shradha Khapra's** tutorial. It's a fun and interactive way to strengthen logic building and learn core programming concepts!  
+🚀 This is a **Tic-Tac-Toe game** built to strengthen logic building and learn core web development concepts in a fun and interactive way!  
 
 ---
 
 ## 🖥️ Preview  
-![Tic-Tac-Toe Game](https://source.unsplash.com/800x400/?tic-tac-toe,game)  
+![Tic-Tac-Toe Game](https://via.placeholder.com/800x400.png?text=Game+Preview)  
 
 ---
 
@@ -28,5 +28,4 @@ git clone https://github.com/YOUR_USERNAME/Tic-Tac-Toe.git
 # Navigate to the project folder
 cd Tic-Tac-Toe
 
-# Run the game (if it's HTML/JS, just open the file in a browser)
-npm start  # or python main.py (depending on your version)
+# Open the index.html file in a browser
