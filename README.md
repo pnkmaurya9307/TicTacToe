@@ -7,7 +7,7 @@
 ---
 
 ## 🖥️ Preview  
-![Tic-Tac-Toe Game](https://upload.wikimedia.org/wikipedia/commons/3/32/Tic_tac_toe.svg)  
+![Tic-Tac-Toe Game](https://upload.wikimedia.org/wikipedia/common/3/32/Tic_tac_toe.svg)  
 
 ---
 
